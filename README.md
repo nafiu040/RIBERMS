@@ -6,6 +6,7 @@ A complete frontend demo for a university exam routine system. Pure HTML, CSS, a
 
 ---
 
+
 ## Pages
 
 | Page | Purpose |
