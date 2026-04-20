@@ -11,6 +11,7 @@ const Session = {
   },
   clear() { localStorage.removeItem('riberms_user'); },
 
+  
   requireRole(role) {
     const user = this.get();
     if (!user) { window.location.href = 'login.html'; return null; }

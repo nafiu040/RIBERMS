@@ -26,6 +26,7 @@ const DATA = {
     { id: 4, code: 'ENG', name: 'English Literature' },
   ],
 
+  
   // 8 semesters total (4 years × 2 semesters)
   semesters: [
     { id: 1, number: 1, year: 1, semOfYear: 1, label: '1st Year · 1st Semester' },
