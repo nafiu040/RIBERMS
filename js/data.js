@@ -18,6 +18,7 @@
      Year 4, Sem 2 -> Semester 8
    ========================================================= */
 
+   
 const DATA = {
   departments: [
     { id: 1, code: 'CSE', name: 'Computer Science & Engineering' },
