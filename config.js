@@ -15,6 +15,6 @@
    ========================================================= */
 
 const SUPABASE_CONFIG = {
-  url:     'YOUR_SUPABASE_URL_HERE',      // e.g. 'https://abcdef123456.supabase.co'
-  anonKey: 'YOUR_SUPABASE_ANON_KEY_HERE', // long JWT-like string starting with "eyJ..."
+  url:     'https://jcppvoxncwiywdpdmwnp.supabase.co',      // e.g. 'https://abcdef123456.supabase.co'
+  anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpjcHB2b3huY3dpeXdkcGRtd25wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzcxOTcwMjAsImV4cCI6MjA5Mjc3MzAyMH0.VQEjDtSPLJAwQEzreaC_8GapMvvSXNppf6XihwNKAQ0', // long JWT-like string starting with "eyJ..."
 };
