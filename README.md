@@ -1,3 +1,4 @@
+https://riberms.vercel.app
 # RIBERMS — Referred, Improvement & Backlog Exam Routine Management System
 
 A full-stack exam scheduling system for managing **Referred**, **Improvement**, and **Backlog** exams across departments, semesters, and shifts — built with Supabase as the backend database.
